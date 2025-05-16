@@ -1,2 +1,2 @@
 # democodes
-This demo code to learn github class
+This demo code to learn github class.
